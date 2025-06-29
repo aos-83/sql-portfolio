@@ -9,6 +9,7 @@
 2. [04_student_scores_vs_average](04_student_scores_vs_average/README.md) — сравнение оценок студентов со средним значением  
 3. [salary_analysis](salary_analysis/README.md) — анализ зарплат и агрегатные функции  
 4. [customer_orders](customer_orders/README.md) — работа с заказами и объединением таблиц (JOIN)  
+5. [Анализ библиотеки](05_library_analysis/README.md) — анализ книг и авторов, SQL-запросы, агрегаты и подзапросы
 
 Спасибо, что заглянули!  
 Буду рада обратной связи и новым задачам.
